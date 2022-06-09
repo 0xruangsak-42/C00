@@ -1,0 +1,1 @@
+gcc ./ex01/ft_putchar.c
